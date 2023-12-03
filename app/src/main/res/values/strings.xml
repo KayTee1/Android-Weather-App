@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">ProjectWeatherApp</string>
+    <string name="app_header">Weather App</string>
+    <string name="settings_button">Settings</string>
+    <string name="weather_button">Update</string>
+    <string name="temperature_textView">Temperature: </string>
+    <string name="description_textView">Description: </string>
+    <string name="windspeed_textView">Wind Speed: </string>
+    <string name="selectedLocation_textView" translatable="false">Tampere</string>
+
+    <string name="settings_header">Settings</string>
+    <string name="back_button">Back</string>
+    <string name="countryselector_editText">Country / City</string>
+    <string name="preciseLocation_switch">Use Precise Location</string>
+</resources>

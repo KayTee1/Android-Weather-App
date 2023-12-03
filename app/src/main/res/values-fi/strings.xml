@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_header">Sää Sovellus</string>
+    <string name="settings_button">Asetukset</string>
+    <string name="weather_button">Päivitä</string>
+    <string name="temperature_textView">Lämpötila:</string>
+    <string name="description_textView">Kuvaus:</string>
+    <string name="windspeed_textView">Tuulen Nopeus</string>
+    <string name="settings_header">Asetukset</string>
+    <string name="back_button">Takaisin</string>
+    <string name="countryselector_editText">Maa / Kaupunki</string>
+    <string name="preciseLocation_switch">Käytä tarkkaa sijaintia</string>
+</resources>
