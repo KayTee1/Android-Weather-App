@@ -21,3 +21,13 @@ A simple Android weather app built with Android Studio and powered by Volley. Th
 - The app is developed in Java using Android Studio.
 - Volley library is used for handling network requests.
 - Location services are integrated for precise weather updates.
+
+## Screenshots
+
+- MainActivity
+
+![main_activity](images/main_activity.png)
+
+- SettingsActivity
+
+![settings_activity](images/settings_activity.png)
